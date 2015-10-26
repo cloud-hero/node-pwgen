@@ -2,7 +2,7 @@
   "name": "node-pwgen",
   "version": "0.0.0",
   "description": "Password generator",
-  "main": "app.js",
+  "main": "pwgen.js",
   "dependencies": {
   },
   "devDependencies": {},
